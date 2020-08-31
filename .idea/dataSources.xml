@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="studacc_dev@hwsrv-738030.hostwindsdns.com" uuid="160aa965-517a-4329-ad3f-1d6f90d8e175">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://hwsrv-738030.hostwindsdns.com:5432/studacc_dev</jdbc-url>
+    </data-source>
+  </component>
+</project>
